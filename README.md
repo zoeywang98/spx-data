@@ -12,6 +12,5 @@ SPX 0DTE GEX/VEX 回测（尾盘真空、King Node、Stacked Nodes 等）所用�
 | `tradingview/vix1d_5m/` | TradingView | VIX 5 分钟（08-24 → 10-09） |
 | `tradingview/vix_1m/` | TradingView layout | VIX 逐分钟 CSV（10-04 起） |
 | `kline/spx_1m/` | VolSignals spx_kline | 10 月 SPX 1 分钟 K（10-22 不完整，止于 11:18） |
-| `scripts/` | — | 回测脚本（路径为本机绝对路径，复用需改 `bt_vac_dn.py` 等顶部常量） |
 
 符号口径：Nightwatch / VolSignals 为 dealer 方向。
