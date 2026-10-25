@@ -1,0 +1,165 @@
+{
+ "symbol": "TVC:VIX",
+ "pro_name": "TVC:VIX",
+ "tf": "1",
+ "range": [
+  "2026-08-24",
+  "2026-10-05"
+ ],
+ "file": "TVC_VIX_1m_2026-08-24_2026-10-05.csv",
+ "bars": 19371,
+ "days": 30,
+ "first": "2026-08-24T03:15:00-04:00",
+ "last": "2026-10-05T16:14:00-04:00",
+ "session": "0215-0826,0830-1516",
+ "exchange_timezone": "America/Chicago",
+ "subsessions": [
+  {
+   "id": "us_regular",
+   "from": "08:30",
+   "to": "15:16"
+  },
+  {
+   "id": "global",
+   "from": "02:15",
+   "to": "08:26"
+  }
+ ],
+ "bars_per_day": {
+  "2026-08-24": {
+   "global": 233,
+   "us_regular": 346
+  },
+  "2026-08-25": {
+   "global": 239,
+   "us_regular": 310
+  },
+  "2026-08-26": {
+   "global": 236,
+   "us_regular": 308
+  },
+  "2026-08-27": {
+   "global": 277,
+   "us_regular": 353
+  },
+  "2026-08-28": {
+   "global": 175,
+   "us_regular": 392
+  },
+  "2026-08-31": {
+   "global": 250,
+   "us_regular": 358
+  },
+  "2026-09-01": {
+   "global": 337,
+   "us_regular": 395
+  },
+  "2026-09-02": {
+   "global": 334,
+   "us_regular": 378
+  },
+  "2026-09-03": {
+   "global": 320,
+   "us_regular": 326
+  },
+  "2026-09-04": {
+   "global": 213,
+   "us_regular": 343
+  },
+  "2026-09-08": {
+   "global": 320,
+   "us_regular": 364
+  },
+  "2026-09-09": {
+   "global": 334,
+   "us_regular": 389
+  },
+  "2026-09-10": {
+   "global": 326,
+   "us_regular": 398
+  },
+  "2026-09-11": {
+   "global": 315,
+   "us_regular": 375
+  },
+  "2026-09-14": {
+   "global": 337,
+   "us_regular": 352
+  },
+  "2026-09-15": {
+   "global": 330,
+   "us_regular": 367
+  },
+  "2026-09-16": {
+   "global": 270,
+   "us_regular": 344
+  },
+  "2026-09-17": {
+   "global": 299,
+   "us_regular": 337
+  },
+  "2026-09-18": {
+   "global": 256,
+   "us_regular": 358
+  },
+  "2026-09-21": {
+   "global": 224,
+   "us_regular": 310
+  },
+  "2026-09-22": {
+   "global": 244,
+   "us_regular": 275
+  },
+  "2026-09-23": {
+   "global": 217,
+   "us_regular": 389
+  },
+  "2026-09-24": {
+   "global": 351,
+   "us_regular": 397
+  },
+  "2026-09-25": {
+   "global": 290,
+   "us_regular": 378
+  },
+  "2026-09-28": {
+   "global": 318,
+   "us_regular": 395
+  },
+  "2026-09-29": {
+   "global": 293,
+   "us_regular": 396
+  },
+  "2026-09-30": {
+   "global": 311,
+   "us_regular": 390
+  },
+  "2026-10-01": {
+   "global": 357,
+   "us_regular": 402
+  },
+  "2026-10-02": {
+   "global": 300,
+   "us_regular": 378
+  },
+  "2026-10-05": {
+   "global": 277,
+   "us_regular": 285
+  }
+ },
+ "windows": [
+  {
+   "range": 1,
+   "window": 0,
+   "end": 1791244800,
+   "point": 1791244800,
+   "n": 20000,
+   "oldest": 1787249280,
+   "newest": 1791231240,
+   "why": "covered"
+  }
+ ],
+ "overlap_bars_that_differ": 0,
+ "source": "TradingView data websocket (Bar Replay session), ZZ's login via the DICloak tab",
+ "fetched_at": "2026-10-25T18:10:37-04:00"
+}

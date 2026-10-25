@@ -10,6 +10,7 @@ SPX 0DTE GEX/VEX 回测（尾盘真空、King Node、Stacked Nodes 等）所用�
 | `nightwatch/history_SPX/` | Nightwatch history grid | 分到期 per-strike GEX（10-12 起）/ VEX（10-08 起），最长 78DTE，json.gz |
 | `volsignals/charm_SPX/` | VolSignals MM | 0DTE charm，10 分钟一格，09-25 起 |
 | `tradingview/vix1d_5m/` | TradingView | VIX 5 分钟（08-24 → 10-09） |
+| `tradingview/vix_1m_history/` | TradingView TVC:VIX（Bar Replay 抓取） | VIX 1 分钟 K，07-15 → 10-05；time = bar 开盘，值不变的分钟无 bar（需前值填充） |
 | `tradingview/vix_1m/` | TradingView layout | VIX 逐分钟 CSV（10-04 起） |
 | `kline/spx_1m/` | VolSignals spx_kline | 10 月 SPX 1 分钟 K（10-22 不完整，止于 11:18） |
 
